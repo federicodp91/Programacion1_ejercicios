@@ -1,11 +1,6 @@
-
-
-
-
-
 # Explicar con tus palabras que es un algoritmo en general. Y que es un algoritmo en el contexto de la programación.
 
-"""Un algoritmo es un conjunto de intrucciones diseñado para realizar una tarea específica. 
+"""Un algoritmo es un conjunto de intrucciones diseñado para realizar una tarea específica.
 
 En el contexto de la programación son la base para desarrollar programas:
 Debe contemplar:
@@ -14,7 +9,8 @@ Debe contemplar:
 3) Completo: Debe considerar todas las posibilidades del problema.
 4) Finito: Debe tener un número kimitado de pasos.
 5) Entendible: Las intrucciones deben ser claras y comprensibles.
-""" 
+"""
+
 
 # Cuantos tipos de lenguaje de programación hay. Enumerarlos y detallar brevemente cada uno.
 
@@ -32,7 +28,10 @@ Compilado: Traduce todo el código fuente a lenguaje máquina en un solo proceso
 
 Interpretado: Traduce el código línea por línea cada vez que se ejecuta. Requiere del intérprete en la computadora donde se ejecuta.
 """
+# SUGERENCIA: la definición es correcta Agrego más info:
+#             - Compilado: genera un ejecutable, suele ser más rápido en ejecución (ej. C, C++, Rust).
+#             - Interpretado: más lento pero más portable y flexible para desarrollar (ej. Python, JavaScript).
+#             - Errores: en un compilado se detectan en tiempo de compilación; en un interpretado, en tiempo de ejecución.
 
 
-
-
+# Excelente!
